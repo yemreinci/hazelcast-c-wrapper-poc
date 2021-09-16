@@ -1,6 +1,6 @@
 # C API PoC for Hazelcast C++ Client
 
-This PoC is a C library that wraps around Hazelcast C++ Client to 
+This PoC is a C library that wraps Hazelcast C++ Client to 
 provide Hazelcast functionalities natively in the C programming
 language.
 
@@ -18,7 +18,7 @@ Here is how you can run the PoC yourself.
 Install the following:
 * CMake
 * C/C++ compiler
-* Hazelcast C++ Client (vcpkg installation is assumed)
+* Hazelcast C++ Client (vcpkg installation is assumed below)
 
 ### Configure
 ```bash
